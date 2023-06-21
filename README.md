@@ -31,7 +31,7 @@ Simplemente actualiza los nombres o rutas de los archivos según tus necesidades
 
 ## Créditos
 
-Este programa fue escrito por [Tu nombre] como una implementación del algoritmo de compresión Huffman.
+Este programa fue escrito por [JUAN SEBASTIAN HOYOS Y NICOLAS RAMIREZ CORDOBA] como una implementación del algoritmo de compresión Huffman.
 
 ## Licencia
 
