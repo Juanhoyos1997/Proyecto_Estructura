@@ -4,9 +4,11 @@ Este es un programa en Java que permite codificar y decodificar archivos utiliza
 
 ## Requisitos previos
 - JDK VERSION 17.0.2,
-##GRAFICO
-![![image](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/b774d5b1-61f3-4536-b12b-52891393e2e6)
-]
+
+## GRAFICO
+
+![![image](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/b774d5b1-61f3-4536-b12b-52891393e2e6)}
+
 ## Uso
 
 
