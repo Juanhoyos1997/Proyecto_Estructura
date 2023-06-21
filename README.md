@@ -4,16 +4,18 @@ Este es un programa en Java que permite codificar y decodificar archivos utiliza
 
 ## Requisitos previos
 - JDK VERSION 17.0.2,
+##GRAFICO
 
 ## Uso
+![![image](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/b774d5b1-61f3-4536-b12b-52891393e2e6)
+]
 
 1. Descarga el archivo `ArchivoCodificador.java` y guárdalo en tu directorio de trabajo.
 2. Asegúrate de tener los archivos de entrada `entrada.txt` que deseas codificar y `archivo_codificado.txt` donde se guardará el archivo codificado.
 3. Ejecuta el siguiente comando en tu terminal o línea de comandos:
 
-![![![image](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/67d8095a-9970-4bbb-acda-740d47a71320)](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/7381c275-bd31-4bfa-9360-b38e7ebf4ffa)
-]
-)
+![![image](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/67d8095a-9970-4bbb-acda-740d47a71320)](]
+
 
 4. El programa codificará el archivo `entrada.txt` utilizando el algoritmo de compresión Huffman y guardará el resultado en `archivo_codificado.txt`. Además, imprimirá la tasa de compresión obtenida.
 5. Luego, el programa decodificará el archivo codificado `archivo_codificado.txt` y guardará el archivo decodificado en `archivo_decodificado.txt`.
