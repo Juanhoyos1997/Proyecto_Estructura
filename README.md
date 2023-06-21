@@ -3,7 +3,7 @@
 Este es un programa en Java que permite codificar y decodificar archivos utilizando compresión Huffman. El programa toma un archivo de entrada, lo codifica utilizando el algoritmo de compresión Huffman y guarda el archivo codificado. Luego, puede decodificar el archivo codificado y guardar el archivo decodificado.
 
 ## Requisitos previos
-- Java 8 o superior.
+- JDK VERSION 17.0.2,
 
 ## Uso
 
@@ -11,7 +11,8 @@ Este es un programa en Java que permite codificar y decodificar archivos utiliza
 2. Asegúrate de tener los archivos de entrada `entrada.txt` que deseas codificar y `archivo_codificado.txt` donde se guardará el archivo codificado.
 3. Ejecuta el siguiente comando en tu terminal o línea de comandos:
 
-![](![image](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/78d87d95-4423-4d8b-b5fc-11c545ba1c0a)
+![![![image](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/67d8095a-9970-4bbb-acda-740d47a71320)](https://github.com/Juanhoyos1997/Proyecto_Estructura/assets/112044220/7381c275-bd31-4bfa-9360-b38e7ebf4ffa)
+]
 )
 
 4. El programa codificará el archivo `entrada.txt` utilizando el algoritmo de compresión Huffman y guardará el resultado en `archivo_codificado.txt`. Además, imprimirá la tasa de compresión obtenida.
