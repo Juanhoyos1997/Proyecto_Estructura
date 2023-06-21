@@ -38,6 +38,3 @@ Simplemente actualiza los nombres o rutas de los archivos según tus necesidades
 
 Este programa fue escrito por [JUAN SEBASTIAN HOYOS Y NICOLAS RAMIREZ CORDOBA] como una implementación del algoritmo de compresión Huffman.
 
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Puedes modificarlo y distribuirlo según tus necesidades.
